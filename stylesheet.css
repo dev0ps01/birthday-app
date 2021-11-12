@@ -13,7 +13,7 @@ body {
 }
 .peach {
 	/* background-image: url("bd1.jpg"); */
-	background-color: #f170a6;
+	background-color: #00FFFF;
 	
 }
 .peach-after {
@@ -26,90 +26,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	25%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	75%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	25%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	75%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #00FF00;
 	}
 	50%{
 		background-color: #ddd5d8;
 	}
 	75%{
-		background-color: #FFE4B5;
+		background-color: #00FF00;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #00FF00;
 	}
 	50%{
 		background-color: #ddd5d8;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #00FF00;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #00FF00;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #00FF00;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #00FFFF;
 	}
 }
 
