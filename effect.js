@@ -182,7 +182,7 @@ $('document').ready(function(){
 		$('#b77').animate({top:240, left: vw+100},500);
 		$('#b88').animate({top:240, left: vw+200},500);
 		$('#b99').animate({top:240, left: vw+300},500);
-		$('#b00').animate({top:240, left: vw+400},500);
+		$('#b00').animate({top:240, left: vw+370},500);
 		$('#b1010').animate({top:240, left: vw+400},500);
 		$('.balloons').css('opacity','0.9');
 		$('.balloons h2').fadeIn(3000);
